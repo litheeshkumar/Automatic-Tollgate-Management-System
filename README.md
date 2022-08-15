@@ -1,2 +1,14 @@
 # ICPS_Project
-Tollgate Management &amp; Toll-lane suggestion
+
+Academic Course Project
+Course name: Introduction to Cyber Physical Systems
+Project name: Tollgate Management & Toll-lane suggestion
+
+Group members:
+-> Kamarthi Litheesh Kumar
+-> Kamalapuram Sreenivasulu Reddy
+-> Kakarla Venkata Sesha Sai Pavanteja
+-> Donda Vishal
+
+Outcomes:
+-> 
